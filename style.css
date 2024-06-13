@@ -1,0 +1,132 @@
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  nav li a {
+    font-size: 16px;
+    text-decoration: none;
+    color: #000;
+  }
+  
+  
+  img {
+    max-width: 100px;
+  }
+  
+  
+
+.user-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: -4px;
+    margin-left: 41px;
+    border-radius: 10px;
+}
+button.button{
+    margin-top: 10px;
+    margin-left: 558px;
+    border-radius: 10px;
+}
+  
+  button {
+    background-color: #0074d9;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  
+  h1, title1 {
+    font-size: 40px;
+    margin-top: 20px;
+    width: 430px;
+    margin-top: 50px;
+}
+h2, title2 {
+    font-size: 35px;
+    margin-top: 20px;
+    width: 430px;
+    margin-top: 50px;
+    text-align: center;
+    width: 525px;
+}
+  p, .paragraphe1 {
+    font-size: 16px;
+    width: 264px;
+}
+img.image-logo {
+    float: left;
+    width: 100px;
+    height: 100px;
+    border-radius: 120px;
+    margin-top: -15px;
+    margin-left: 100px;
+}
+
+  
+  
+  .cta-buttons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  
+  img.image-droite {
+    max-width: 300px;
+    float: right;
+    margin-top: -174px;
+    height: 232px;
+    margin-right: 125px;
+    border-radius: 20px;
+}
+.category-container {
+    float: left;
+    width: 33.33%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    gap: 20px;
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.offer-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+  }
+
+  
+.partners-section {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+
+.partners-section h2 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+}
+  
+  .partner-logos {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .partner-logos img {
+    max-width: 100px;
+  }
+  
+  
